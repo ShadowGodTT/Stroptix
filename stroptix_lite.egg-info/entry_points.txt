@@ -1,0 +1,3 @@
+[console_scripts]
+stroptix = stroptix.cli:app
+stroptix-gui = stroptix.gui:main

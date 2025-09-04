@@ -1,0 +1,6 @@
+typer[all]>=0.12.0
+pydantic<3.0,>=2.5
+pandas<3.0,>=2.0
+openpyxl<4.0,>=3.1
+XlsxWriter<4.0,>=3.0
+PyYAML<7.0,>=6.0

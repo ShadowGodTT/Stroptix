@@ -1,0 +1,22 @@
+{
+  "IS800": {
+    "gamma_m0": 1.1,
+    "gamma_m1": 1.25,
+    "bt_limits": {},
+    "shear": {},
+    "ltb": {}
+  },
+  "AISC360": {
+    "LRFD": {
+      "phi_bending": 0.9,
+      "phi_shear": 1.0
+    },
+    "ASD": {
+      "omega_bending": 1.67,
+      "omega_shear": 1.5
+    },
+    "bt_limits": {},
+    "shear": {},
+    "ltb": {}
+  }
+}

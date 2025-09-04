@@ -1,0 +1,34 @@
+2025-09-02 18:13:58,021 - INFO - Attempting to read Excel file: C:\Projects\Infiniti Solutions\StrOpticx Development\Assets\Infiniti Specification (7).xlsx
+2025-09-02 18:13:58,040 - INFO - Excel file loaded. Sheets found: ['PEB Specifications', 'Crane & mezzanine', 'Extras', 'Notes']
+2025-09-02 18:13:58,040 - INFO - 
+Processing sheet: PEB Specifications
+2025-09-02 18:13:58,225 - INFO - Total pairs found in sheet PEB Specifications: 64
+2025-09-02 18:13:58,226 - INFO - 
+Processing sheet: Crane & mezzanine
+2025-09-02 18:13:58,434 - INFO - Total pairs found in sheet Crane & mezzanine: 9
+2025-09-02 18:13:58,435 - INFO - 
+Processing sheet: Extras
+2025-09-02 18:13:58,450 - INFO - Total pairs found in sheet Extras: 11
+2025-09-02 18:13:58,451 - INFO - 
+Processing sheet: Notes
+2025-09-02 18:13:58,471 - INFO - Total pairs found in sheet Notes: 2
+2025-09-02 18:13:58,473 - INFO - Total parameters found: 86
+2025-09-02 18:13:58,482 - INFO - Successfully saved CSV file: C:\Projects\Infiniti Solutions\StrOpticx Development\excel_to_csv_logic\output\Infiniti Specification (7)_filtered.csv
+2025-09-02 18:13:58,484 - ERROR - Error processing Excel file: 'MBSConverter' object has no attribute 'generate_in_file'
+2025-09-02 18:14:37,013 - INFO - Attempting to read Excel file: C:\Projects\Infiniti Solutions\StrOpticx Development\Assets\Infiniti Specification (7).xlsx
+2025-09-02 18:14:37,033 - INFO - Excel file loaded. Sheets found: ['PEB Specifications', 'Crane & mezzanine', 'Extras', 'Notes']
+2025-09-02 18:14:37,033 - INFO - 
+Processing sheet: PEB Specifications
+2025-09-02 18:14:37,176 - INFO - Total pairs found in sheet PEB Specifications: 64
+2025-09-02 18:14:37,177 - INFO - 
+Processing sheet: Crane & mezzanine
+2025-09-02 18:14:37,303 - INFO - Total pairs found in sheet Crane & mezzanine: 9
+2025-09-02 18:14:37,303 - INFO - 
+Processing sheet: Extras
+2025-09-02 18:14:37,319 - INFO - Total pairs found in sheet Extras: 11
+2025-09-02 18:14:37,319 - INFO - 
+Processing sheet: Notes
+2025-09-02 18:14:37,334 - INFO - Total pairs found in sheet Notes: 2
+2025-09-02 18:14:37,336 - INFO - Total parameters found: 86
+2025-09-02 18:14:37,344 - INFO - Successfully saved CSV file: C:\Projects\Infiniti Solutions\StrOpticx Development\excel_to_csv_logic\output\Infiniti Specification (7)_filtered.csv
+2025-09-02 18:14:37,347 - INFO - Successfully generated MBS file: None

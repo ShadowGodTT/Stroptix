@@ -1,0 +1,87 @@
+Parameter,Value
+Parameter,Details
+Date,2025-09-02 00:00:00
+Desing code,AISC code
+Structure application,Fabrication Shed
+Dead Load in kN/m2,0.1
+Proposal Id,C529-013
+Live Load in kN/m2,0.57
+Building No.,1
+Max wind speed in m/s,39
+Option,1
+Max rainfall intensity in mm/hr,150
+Exposure category,B
+Area (sqm),960.6345
+Seismic zone  co-efficient (III),0.16
+Design Software,MBS
+Maximum temperate variation,20
+Parameter,Details
+Parameter,Details
+Building type,Clear Span
+Frames Vertical deflection,Span/150
+Length in m (o/o of steel),28.65
+Frames Horizontal deflection,Height/100
+Width in m (o/o of steel),33.53
+Purlins,Span/150
+Left eave height in m,9
+Girts,Span/120
+Right eave height in m,9
+Crane beams,Span/600
+Ridge line distance,16.765
+Mezzanine beams,Span/240
+Roof slope (?:100),10/100
+Left end wall bay spacing in m,5@6.706
+Assumption/Remark,Details
+Right end wall bay spacing in m,5@6.706
+Hot rolled sections grade (Mpa),250
+Side wall bay spacing,1@7.16+2@7.165+1@7.16
+Cold form sections  grade (Mpa),350
+Wall bracing type,Rod
+Primary sections grade (Mpa),350
+Roof bracing type,Rod
+Building design condition,Enclosed
+Roof sheeting,0.45mm aluzinc
+Minimum web thickness in mm,4
+Wall sheeting,0.45mm aluzinc
+Minimum flange thickness in mm,5
+Doors,4.5x4.5
+Minimum flange width in mm,125
+Windows (4nos.),2x1.5
+Minimum web depth in mm,250
+Block wall in m,3
+Minimum cold form thickness in mm,1.5
+Sheeting profile width & length in m,1.22 & 7.65
+Item,Details
+Connection bolts grade,High strength bolts (ASTM A325 or equivalent)
+Canopy Extension in m,3
+Slope,10/100
+Clear top height in m,3.5
+Braced bays (Bay id),1 4
+Skylights (FRP 3.25m x 1m),8
+Turbo Ventilators (600 mm throat diameter),8
+Bay Id @ Left end wall,NA
+Bay Id @ Front side wall,NA
+Bay Id @ Right end wall,NA
+Bay Id @ Back side wall,NA
+Parameter,Details
+Crane class,II (Normal duty)
+Crane Type,Top running
+Type of Girder,Single
+Parameter,Details
+Dimensions,-
+Staircase Nos.,1
+Type,Double staircase with intermediate landing
+Handrail (1m height ),on the open side of mezzanine
+Items,Details
+Cable tray brackets,bracket lenth
+Walkway details,Length in m:      Width in m:       Height in m:        Loading:
+Jack beam,location
+Parttion wall,Length in m:      Width in m:       Height in m:        Location:
+Monkey laader,location
+Fascia,Length in m:      Width in m:       Height in m:
+Roof Monitor,Length in m:               Width in m:                 Height in m:
+Cage ladder,NA
+Ridge Ventilators,NA
+Any other,NA
+Parameter,Value
+Automatic 1st girt location,80mm above block wall height

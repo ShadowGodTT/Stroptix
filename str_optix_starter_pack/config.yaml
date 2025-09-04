@@ -1,0 +1,40 @@
+app:
+  steel_density_kg_per_m3: 7850
+feature_flags:
+  enable_bt_limits: false
+  enable_depth_range: true
+  enable_shear_check: false
+  enable_bending_check: false
+  enable_shear_bending_interaction: false
+defaults:
+  design_code: IS800
+  members_count: 6
+heuristics:
+  frame_type_map:
+    ClearSpan:
+      start_depth_min: 350
+      start_depth_max: 800
+      end_depth_min: 300
+      end_depth_max: 700
+    MultiSpan:
+      start_depth_min: 350
+      start_depth_max: 900
+      end_depth_min: 300
+      end_depth_max: 800
+    MonoSlope:
+      start_depth_min: 300
+      start_depth_max: 800
+      end_depth_min: 250
+      end_depth_max: 700
+    MultiGable:
+      start_depth_min: 400
+      start_depth_max: 950
+      end_depth_min: 300
+      end_depth_max: 850
+min_thickness_mm:
+  web: 4
+  flange: 6
+heuristics_extra:
+  segment_rule: by_bay_spacing
+  fixed_segments_per_member: 3
+  min_segment_length_mm: 500
